@@ -8,9 +8,9 @@ This project implements a light/dark theme toggle feature for a web application.
 
 Features
 
-Light theme: A clean and bright theme with light-colored elements for better readability in well-lit environments.
-Dark theme: A sleek and modern theme with dark-colored elements for reduced eye strain in low-light environments.
-Toggle switch: Users can easily switch between light and dark themes with a simple toggle button.
+-Light theme: A clean and bright theme with light-colored elements for better readability in well-lit environments.
+-Dark theme: A sleek and modern theme with dark-colored elements for reduced eye strain in low-light environments.
+-Toggle switch: Users can easily switch between light and dark themes with a simple toggle button.
 Usage
 
 Clone the repository to your local machine:
@@ -22,9 +22,9 @@ Navigate to the index.html file and open it in your web browser.
 Use the toggle button to switch between light and dark themes.
 Implementation
 
-HTML: The structure of the web page is defined using HTML, including the toggle switch element.
-CSS: Stylesheets are used to define the appearance of the light and dark themes, as well as the transition effects for the toggle switch.
-JavaScript: Event listeners are added to the toggle switch to detect user interactions. When the switch is toggled, the data-theme attribute of the HTML body element is updated to switch between light and dark themes. This triggers corresponding CSS styles to be applied.
+-HTML: The structure of the web page is defined using HTML, including the toggle switch element.
+-CSS: Stylesheets are used to define the appearance of the light and dark themes, as well as the transition effects for the toggle switch.
+-JavaScript: Event listeners are added to the toggle switch to detect user interactions. When the switch is toggled, the data-theme attribute of the HTML body element is updated to switch between light and dark themes. This triggers corresponding CSS styles to be applied.
 Dependencies
 
 None
